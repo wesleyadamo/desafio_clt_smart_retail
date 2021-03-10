@@ -1,0 +1,5 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+reserva_hotel/local_settings.py
